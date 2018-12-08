@@ -1,3 +1,13 @@
+
+# Secret Santa
+
+This is a web app for creating secret santa lists. 
+The user should be able to create a family secret santa and invite members. 
+Each member will be able to add items to their list and put links. 
+At a specified date it will select pairs of people to each other. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
